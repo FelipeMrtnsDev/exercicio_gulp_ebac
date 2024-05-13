@@ -1,0 +1,1 @@
+function ಠ_ಠ379(o,n){console.log(o+n)}
